@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IUT_RESULT_PROCESSING_SYSTEM", "IUT_RESULT_PROCESSING_SYSTEM\IUT_RESULT_PROCESSING_SYSTEM.csproj", "{F3F6A005-75DC-4BCC-BBD4-7EAA93EC5E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F6A005-75DC-4BCC-BBD4-7EAA93EC5E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F6A005-75DC-4BCC-BBD4-7EAA93EC5E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F6A005-75DC-4BCC-BBD4-7EAA93EC5E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F6A005-75DC-4BCC-BBD4-7EAA93EC5E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95E0B631-5E84-4E64-BCF1-80F38AFBADFE}
+	EndGlobalSection
+EndGlobal
